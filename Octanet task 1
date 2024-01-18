@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RS Bike Showroom</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        section {
+            padding: 2em;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            color: #666;
+        }
+
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 15px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #4CAF50;
+            color: #fff;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        .cta-button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>RS BIKE SHOWROOM</h1>
+        <p>Explore a wide range of premium bikes</p>
+    </header>
+
+    <section>
+        <h2>Welcome to Our Showroom</h2>
+        <p>Discover the latest models and top-notch bikes at our showroom. Whether you're a biking enthusiast or a casual rider, we have something for everyone.</p>
+
+        <h2>Why Choose Us?</h2>
+        <p>At Your Bike Showroom, we pride ourselves on providing:</p>
+        <ul>
+            <li>High-quality bikes from top brands</li>
+            <li>Expert staff to assist you in making the right choice</li>
+            <li>Competitive prices and financing options</li>
+            <li>Exceptional customer service</li>
+        </ul>
+
+        <a href="#contact" class="cta-button">Contact Us</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Visit our showroom today to experience the thrill of riding your dream bike. Our team is ready to assist you.</p>
+        <p>Address: R.S Puram Road,Coimbatore.</p>
+        <p>Phone: 9865169976</p>
+        <p>Email: Rsbikes@gmail.com</p>
+
+        
+    </section>
+
+</body>
+</html>
